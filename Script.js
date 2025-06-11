@@ -32,7 +32,33 @@
 //     console.log(count[i]);
 // }
 
-module.exports = {
-    name: "raj",
-    age: 23,
-}
+// module.exports = {
+//     name: "raj",
+//     age: 23,
+// }
+
+
+// let name = process.argv;
+// console.log(name);
+
+// console.log(`Hello, ${name[2]}`);
+
+// function mathSum(a, b) {
+//     console.log(a + b);
+// }
+//  module.exports = mathSum(60, 7);
+
+// const fs = require('fs');
+
+// Create content using environment variables
+// const username = process.env.USER || 'Guest';
+// const nodeEnv = process.env.NODE_ENV || 'development';
+
+// const content = `Hello ${username}, you're running this app in ${nodeEnv} mode.`;
+
+// Write to a file
+// fs.writeFileSync('envInfo.txt', content);
+
+// Read and log the file
+// const readContent = fs.readFileSync('envInfo.txt', 'utf-8');
+// console.log(readContent);

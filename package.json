@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is my first package.json file",
+  "main": "result.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinayk-patil/nodejs.git"
+  },
+  "author": "Vinayak Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinayk-patil/nodejs/issues"
+  },
+  "homepage": "https://github.com/Vinayk-patil/nodejs#readme",
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
